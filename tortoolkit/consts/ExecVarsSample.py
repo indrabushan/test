@@ -28,7 +28,7 @@ except:
         REMAINING_STR = "▱"
 
         # DB URI for access
-        DB_URI = "postgres://eyvdttsbsmkouc:4091fbbed720394d6539cd1104b3317cd415dd2370298649bc42cf4a81afc836@ec2-54-155-87-214.eu-west-1.compute.amazonaws.com:5432/d8s577ipso6c72"
+        DB_URI = "postgres://mvsrqljtqhmrhc:c439b33649d1ec040581d5954fc73ce4bcab07c7ffdc840041b1dff3bc20b9c5@ec2-54-228-174-49.eu-west-1.compute.amazonaws.com:5432/d873vb6nsu0aq0"
         
         # The base direcory to which the files will be upload if using RCLONE
         RCLONE_BASE_DIR = "/Bot Uploads/Leech Bot"
